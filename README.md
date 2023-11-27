@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @EdgarasR.
-- 👀 I’m interested in web development.
-- 🌱 I’m currently learning HTML, CSS, JS, PHP, MySQL, Vue.js, Laravel.
-- 💞️ I’m looking to collaborate on new or existing web projects.
+- 👀 I’m interested in web development, mostly PHP and Laravel
 - 📫 How to reach me: Edgaras.rcns@gmail.com
 
 <!---
